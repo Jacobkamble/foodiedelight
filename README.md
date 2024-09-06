@@ -44,3 +44,11 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+![RestaurntContainer](./RestuarntContainer.png)
+![FormDialog](./FormDialog.png)
+
+Timesheet 
+Setup & Mock API Implementation: 15% - 20%
+Frontend Integration: 65% - 70%
+Testing & Validation: 15% - 20%
